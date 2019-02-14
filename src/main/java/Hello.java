@@ -1,4 +1,4 @@
-public class HelloWorld {
+public class Hello {
 
     private String message = "Hello World";
 
