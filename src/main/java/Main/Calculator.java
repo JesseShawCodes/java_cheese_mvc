@@ -2,7 +2,7 @@ package Main;
 
 import java.util.Scanner;
 
-public class Main {
+public class Calculator {
     public static void main(String[] args) {
         String s1 = getInput("Enter Value 1: ");
         String s2 = getInput("Enter Value 2: ");
